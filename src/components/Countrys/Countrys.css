@@ -1,0 +1,15 @@
+.box{
+    height: 95%;
+    background-color: #283743;
+    color: white;
+    cursor: pointer;
+}
+.flag-img{
+    height: 150px;
+    border: 1px solid gray;
+}
+.button{
+    margin: 10px 0;
+    padding: 2px 5px;
+    background-color: orange;
+}

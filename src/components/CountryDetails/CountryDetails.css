@@ -1,0 +1,15 @@
+.preview-btn {
+  background-color: orange;
+  padding: 1% 5%;
+  text-decoration: none;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.loading {
+  display: inline-block;
+  position: relative;
+  left: 25%;
+  top: 1%;
+  color: red;
+}
