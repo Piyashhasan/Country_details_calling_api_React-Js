@@ -19,6 +19,7 @@ const SearchInput = (props) => {
         value={input}
         onChange={(e) => setInput(e.target.value)}
       />
+      
     </form>
   );
 };

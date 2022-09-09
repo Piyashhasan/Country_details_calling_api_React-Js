@@ -1,3 +1,9 @@
+<img src="./public/country.png" alt="Alt text" title="Optional title"/>
+
+# Live link
+
+<a href="https://country-all-details.netlify.app/"></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
